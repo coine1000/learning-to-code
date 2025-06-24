@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<EDIT appVersion="Waveform 12.5.11" projectID="48328f/3d26ec1" creationTime="1717447853230"
+      lastSignificantChange="18fdfecfc13" modifiedBy="coine1000">
+  <TRANSPORT endToEnd="1" position="155.2413541666667" scrubInterval="0.7399999999999983"
+             loopPoint1="0.0" loopPoint2="0.0"/>
+  <MACROPARAMETERS id="1001"/>
+  <PITCHSEQUENCE>
+    <PITCH startBeat="0.0" pitch="60"/>
+  </PITCHSEQUENCE>
+  <TEMPOSEQUENCE>
+    <TEMPO startBeat="0.0" bpm="87.0" curve="1.0"/>
+    <TIMESIG numerator="4" denominator="4" startBeat="0.0"/>
+  </TEMPOSEQUENCE>
+  <VIDEO/>
+  <AUTOMAPXML/>
+  <CLICKTRACK level="0.6000000238418579"/>
+  <ID3VORBISMETADATA trackNumber="1" date="2024"/>
+  <MASTERVOLUME>
+    <PLUGIN type="volume" volume="0.6376281380653381" id="1002" enabled="1">
+      <MACROPARAMETERS id="1003"/>
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+  </MASTERVOLUME>
+  <RACKS/>
+  <MASTERPLUGINS/>
+  <AUXBUSNAMES/>
+  <INPUTDEVICES>
+    <INPUTDEVICE name="Virtual"/>
+    <INPUTDEVICE name="Input channel 1">
+      <INPUTDEVICEDESTINATION targetTrack="1012" targetIndex="0" armed="1"/>
+    </INPUTDEVICE>
+  </INPUTDEVICES>
+  <TRACKCOMPS/>
+  <ARRANGERTRACK name="Arranger" id="1054">
+    <MACROPARAMETERS id="1055"/>
+    <MODIFIERS/>
+  </ARRANGERTRACK>
+  <CHORDTRACK name="Chord" id="1058">
+    <MACROPARAMETERS id="1059"/>
+    <MODIFIERS/>
+  </CHORDTRACK>
+  <MARKERTRACK id="1004" name="Marker">
+    <MACROPARAMETERS id="1005"/>
+    <MODIFIERS/>
+  </MARKERTRACK>
+  <TEMPOTRACK name="Global" id="1056">
+    <MACROPARAMETERS id="1057"/>
+    <MODIFIERS/>
+  </TEMPOTRACK>
+  <MASTERTRACK name="Master" id="1060">
+    <MACROPARAMETERS id="1061"/>
+    <MODIFIERS/>
+  </MASTERTRACK>
+  <TRACK id="1006" midiVProp="0.28125" midiVOffset="0.359375" colour="ffff0000">
+    <MACROPARAMETERS id="1007"/>
+    <MODIFIERS/>
+    <AUDIOCLIP name="Love The Way You Lie instrumentals with hooks" start="0.0"
+               length="264.8633780391299" offset="0.0" id="1064" source="48328f/3ba89e8"
+               sync="0" elastiqueMode="0" pan="0.0" colour="ffff0000" autoTempo="1"
+               proxyAllowed="1" resamplingQuality="lagrange" fadeIn="0.0" fadeOut="0.0">
+      <LOOPINFO bpm="0.0" numBeats="384.0518981567382" denominator="4" numerator="4"
+                oneShot="0" rootNote="-1" inMarker="0" outMarker="-1"/>
+    </AUDIOCLIP>
+    <PLUGIN type="volume" id="1008" enabled="1" volume="0.7063354253768921"
+            windowX="80" windowY="103" windowLocked="0">
+      <MACROPARAMETERS id="1009"/>
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="level" id="1010" enabled="1">
+      <MACROPARAMETERS id="1011"/>
+    </PLUGIN>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK id="1012" midiVProp="0.28125" midiVOffset="0.359375" colour="ffffaa00">
+    <MACROPARAMETERS id="1013"/>
+    <MODIFIERS/>
+    <AUDIOCLIP name="Track 2 Recording 1" start="22.4928125" length="0.1499999999999879"
+               offset="1.043166666666668" id="1067" source="48328f/17ef46c"
+               sync="0" elastiqueMode="0" pan="0.0" colour="ffffaa00" proxyAllowed="1"
+               resamplingQuality="lagrange" effectsVisible="1" gain="-0.7099999785423279"
+               autoTempo="1" pitchChange="-0.01000010967254639" fadeIn="0.05"
+               fadeOut="0.05" fadeInType="2" autoCrossfade="1">
+      <LOOPINFO rootNote="-1" numBeats="305.8485" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <EFFECTS>
+        <EFFECT type="invert"/>
+      </EFFECTS>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="Track 2 Recording 1" start="23.29925" length="0.1500208333333433"
+               offset="1.849604166666666" id="1069" source="48328f/17ef46c"
+               sync="0" elastiqueMode="0" pan="0.0" colour="ffffaa00" proxyAllowed="1"
+               resamplingQuality="lagrange" effectsVisible="1" gain="-0.7099999785423279"
+               autoTempo="1" pitchChange="-0.01000010967254639" fadeIn="0.05"
+               fadeOut="0.05" fadeInType="2" autoCrossfade="1">
+      <LOOPINFO rootNote="-1" numBeats="305.8485" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <EFFECTS>
+        <EFFECT type="invert"/>
+      </EFFECTS>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="Track 2 Recording 1" start="24.32560416666667" length="0.5400416666666636"
+               offset="2.875958333333333" id="1071" source="48328f/17ef46c"
+               sync="0" elastiqueMode="0" pan="0.0" colour="ffffaa00" proxyAllowed="1"
+               resamplingQuality="lagrange" effectsVisible="1" gain="-0.7099999785423279"
+               autoTempo="1" pitchChange="-0.01000010967254639" fadeIn="0.05"
+               fadeOut="0.05" fadeInType="2" autoCrossfade="1">
+      <LOOPINFO rootNote="-1" numBeats="305.8485" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <EFFECTS>
+        <EFFECT type="invert"/>
+      </EFFECTS>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="Track 2 Recording 1" start="25.05691666666667" length="0.1500208333333397"
+               offset="3.607270833333335" id="1073" source="48328f/17ef46c"
+               sync="0" elastiqueMode="0" pan="0.0" colour="ffffaa00" proxyAllowed="1"
+               resamplingQuality="lagrange" effectsVisible="1" gain="-0.7099999785423279"
+               autoTempo="1" pitchChange="-0.01000010967254639" fadeIn="0.05"
+               fadeOut="0.05" fadeInType="2" autoCrossfade="1">
+      <LOOPINFO rootNote="-1" numBeats="305.8485" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <EFFECTS>
+        <EFFECT type="invert"/>
+      </EFFECTS>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="Track 2 Recording 1" start="25.390875" length="0.2726875000000106"
+               offset="3.941229166666666" id="1075" source="48328f/17ef46c"
+               sync="0" elastiqueMode="0" pan="0.0" colour="ffffaa00" proxyAllowed="1"
+               resamplingQuality="lagrange" effectsVisible="1" gain="-0.7099999785423279"
+               autoTempo="1" pitchChange="-0.01000010967254639" fadeIn="0.05"
+               fadeOut="0.05" fadeInType="2" autoCrossfade="1">
+      <LOOPINFO rootNote="-1" numBeats="305.8485" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <EFFECTS>
+        <EFFECT type="invert"/>
+      </EFFECTS>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="Track 2 Recording 1" start="25.67664583333334" length="44.52910416666666"
+               offset="4.227" id="1077" source="48328f/17ef46c" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffffaa00" proxyAllowed="1" resamplingQuality="lagrange"
+               effectsVisible="1" gain="-0.7099999785423279" autoTempo="1" pitchChange="-47.36000061035156"
+               fadeIn="0.05" fadeOut="0.05" fadeInType="2" autoCrossfade="1">
+      <LOOPINFO rootNote="-1" numBeats="305.8485" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <EFFECTS>
+        <EFFECT type="invert"/>
+      </EFFECTS>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="Track 2 Recording 1" start="70.93454166666666" length="0.1500000000000057"
+               offset="49.48489583333333" id="1079" source="48328f/17ef46c"
+               sync="0" elastiqueMode="0" pan="0.0" colour="ffffaa00" proxyAllowed="1"
+               resamplingQuality="lagrange" effectsVisible="1" gain="-0.7099999785423279"
+               autoTempo="1" pitchChange="-0.01000010967254639" fadeIn="0.05"
+               fadeOut="0.05" fadeInType="2" autoCrossfade="1">
+      <LOOPINFO rootNote="-1" numBeats="305.8485" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <EFFECTS>
+        <EFFECT type="invert"/>
+      </EFFECTS>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="Track 2 Recording 1" start="71.28952083333334" length="0.1500208333333148"
+               offset="49.83987500000001" id="1081" source="48328f/17ef46c"
+               sync="0" elastiqueMode="0" pan="0.0" colour="ffffaa00" proxyAllowed="1"
+               resamplingQuality="lagrange" effectsVisible="1" gain="-0.7099999785423279"
+               autoTempo="1" pitchChange="-0.01000010967254639" fadeIn="0.05"
+               fadeOut="0.05" fadeInType="2" autoCrossfade="1">
+      <LOOPINFO rootNote="-1" numBeats="305.8485" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <EFFECTS>
+        <EFFECT type="invert"/>
+      </EFFECTS>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="Track 2 Recording 1" start="72.11885416666667" length="0.1500208333333433"
+               offset="50.66920833333333" id="1083" source="48328f/17ef46c"
+               sync="0" elastiqueMode="0" pan="0.0" colour="ffffaa00" proxyAllowed="1"
+               resamplingQuality="lagrange" effectsVisible="1" gain="-0.7099999785423279"
+               autoTempo="1" pitchChange="-0.01000010967254639" fadeIn="0.05"
+               fadeOut="0.05" fadeInType="2" autoCrossfade="1">
+      <LOOPINFO rootNote="-1" numBeats="305.8485" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <EFFECTS>
+        <EFFECT type="invert"/>
+      </EFFECTS>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="Track 2 Recording 1" start="95.95333333333333" length="0.5197708333333395"
+               offset="74.5036875" id="1085" source="48328f/17ef46c" sync="0"
+               elastiqueMode="0" pan="0.0" colour="ffffaa00" proxyAllowed="1"
+               resamplingQuality="lagrange" effectsVisible="1" gain="-0.7099999785423279"
+               autoTempo="1" pitchChange="-0.01000010967254639" fadeIn="0.05"
+               fadeOut="0.05" fadeInType="2" autoCrossfade="1">
+      <LOOPINFO rootNote="-1" numBeats="305.8485" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <EFFECTS>
+        <EFFECT type="invert"/>
+      </EFFECTS>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="Track 2 Recording 1" start="101.3728333333333" length="0.1499999999999915"
+               offset="79.9231875" id="1087" source="48328f/17ef46c" sync="0"
+               elastiqueMode="0" pan="0.0" colour="ffffaa00" proxyAllowed="1"
+               resamplingQuality="lagrange" effectsVisible="1" gain="-0.7099999785423279"
+               autoTempo="1" pitchChange="-0.01000010967254639" fadeIn="0.05"
+               fadeOut="0.05" fadeInType="2" autoCrossfade="1">
+      <LOOPINFO rootNote="-1" numBeats="305.8485" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <EFFECTS>
+        <EFFECT type="invert"/>
+      </EFFECTS>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="Track 2 Recording 1" start="102.4025208333333" length="0.3151458333333323"
+               offset="80.95287500000001" id="1089" source="48328f/17ef46c"
+               sync="0" elastiqueMode="0" pan="0.0" colour="ffffaa00" proxyAllowed="1"
+               resamplingQuality="lagrange" effectsVisible="1" gain="-0.7099999785423279"
+               autoTempo="1" pitchChange="-0.01000010967254639" fadeIn="0.05"
+               fadeOut="0.05" fadeInType="2" autoCrossfade="1">
+      <LOOPINFO rootNote="-1" numBeats="305.8485" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <EFFECTS>
+        <EFFECT type="invert"/>
+      </EFFECTS>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="Track 2 Recording 1" start="102.7613541666667" length="43.24333333333331"
+               offset="81.31170833333334" id="1091" source="48328f/17ef46c"
+               sync="0" elastiqueMode="0" pan="0.0" colour="ffffaa00" proxyAllowed="1"
+               resamplingQuality="lagrange" effectsVisible="1" gain="-0.7099999785423279"
+               autoTempo="1" pitchChange="-0.01000010967254639" fadeIn="0.05"
+               fadeOut="0.05" fadeInType="2" autoCrossfade="1">
+      <LOOPINFO rootNote="-1" numBeats="305.8485" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <EFFECTS>
+        <EFFECT type="invert"/>
+      </EFFECTS>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="Track 2 Recording 1" start="146.0082291666667" length="0.2948750000000189"
+               offset="124.5585833333333" id="1093" source="48328f/17ef46c"
+               sync="0" elastiqueMode="0" pan="0.0" colour="ffffaa00" proxyAllowed="1"
+               resamplingQuality="lagrange" effectsVisible="1" gain="-0.7099999785423279"
+               autoTempo="1" pitchChange="-0.01000010967254639" fadeIn="0.05"
+               fadeOut="0.05" fadeInType="2" autoCrossfade="1">
+      <LOOPINFO rootNote="-1" numBeats="305.8485" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <EFFECTS>
+        <EFFECT type="invert"/>
+      </EFFECTS>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="Track 2 Recording 1" start="146.3204791666667" length="0.6270833333333314"
+               offset="124.8708333333333" id="1095" source="48328f/17ef46c"
+               sync="0" elastiqueMode="0" pan="0.0" colour="ffffaa00" proxyAllowed="1"
+               resamplingQuality="lagrange" effectsVisible="1" gain="-0.7099999785423279"
+               autoTempo="1" pitchChange="-0.01000010967254639" fadeIn="0.05"
+               fadeOut="0.05" fadeInType="2" autoCrossfade="1">
+      <LOOPINFO rootNote="-1" numBeats="305.8485" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <EFFECTS>
+        <EFFECT type="invert"/>
+      </EFFECTS>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="Track 2 Recording 1" start="147.0357708333333" length="0.2473749999999768"
+               offset="125.586125" id="1097" source="48328f/17ef46c" sync="0"
+               elastiqueMode="0" pan="0.0" colour="ffffaa00" proxyAllowed="1"
+               resamplingQuality="lagrange" effectsVisible="1" gain="-0.7099999785423279"
+               autoTempo="1" pitchChange="-0.01000010967254639" fadeIn="0.05"
+               fadeOut="0.05" fadeInType="2" autoCrossfade="1">
+      <LOOPINFO rootNote="-1" numBeats="305.8485" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <EFFECTS>
+        <EFFECT type="invert"/>
+      </EFFECTS>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="Track 2 Recording 1" start="147.4914166666667" length="0.26724999999999"
+               offset="126.0417708333333" id="1099" source="48328f/17ef46c"
+               sync="0" elastiqueMode="0" pan="0.0" colour="ffffaa00" proxyAllowed="1"
+               resamplingQuality="lagrange" effectsVisible="1" gain="-0.7099999785423279"
+               autoTempo="1" pitchChange="-0.01000010967254639" fadeIn="0.05"
+               fadeOut="0.05" fadeInType="2" autoCrossfade="1">
+      <LOOPINFO rootNote="-1" numBeats="305.8485" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <EFFECTS>
+        <EFFECT type="invert"/>
+      </EFFECTS>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="Track 2 Recording 1" start="147.8456875" length="0.1500208333333148"
+               offset="126.3960416666667" id="1101" source="48328f/17ef46c"
+               sync="0" elastiqueMode="0" pan="0.0" colour="ffffaa00" proxyAllowed="1"
+               resamplingQuality="lagrange" effectsVisible="1" gain="-0.7099999785423279"
+               autoTempo="1" pitchChange="-0.01000010967254639" fadeIn="0.05"
+               fadeOut="0.05" fadeInType="2" autoCrossfade="1">
+      <LOOPINFO rootNote="-1" numBeats="305.8485" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <EFFECTS>
+        <EFFECT type="invert"/>
+      </EFFECTS>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="Track 2 Recording 1" start="148.0700625" length="0.1500208333333148"
+               offset="126.6204166666667" id="1103" source="48328f/17ef46c"
+               sync="0" elastiqueMode="0" pan="0.0" colour="ffffaa00" proxyAllowed="1"
+               resamplingQuality="lagrange" effectsVisible="1" gain="-0.7099999785423279"
+               autoTempo="1" pitchChange="-0.01000010967254639" fadeIn="0.05"
+               fadeOut="0.05" fadeInType="2" autoCrossfade="1">
+      <LOOPINFO rootNote="-1" numBeats="305.8485" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <EFFECTS>
+        <EFFECT type="invert"/>
+      </EFFECTS>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="Track 2 Recording 1" start="148.5654166666667" length="0.1500208333333148"
+               offset="127.1157708333334" id="1105" source="48328f/17ef46c"
+               sync="0" elastiqueMode="0" pan="0.0" colour="ffffaa00" proxyAllowed="1"
+               resamplingQuality="lagrange" effectsVisible="1" gain="-0.7099999785423279"
+               autoTempo="1" pitchChange="-0.01000010967254639" fadeIn="0.05"
+               fadeOut="0.05" fadeInType="2" autoCrossfade="1">
+      <LOOPINFO rootNote="-1" numBeats="305.8485" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <EFFECTS>
+        <EFFECT type="invert"/>
+      </EFFECTS>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="Track 2 Recording 1" start="150.3063541666667" length="0.1500208333333433"
+               offset="128.8567083333333" id="1107" source="48328f/17ef46c"
+               sync="0" elastiqueMode="0" pan="0.0" colour="ffffaa00" proxyAllowed="1"
+               resamplingQuality="lagrange" effectsVisible="1" gain="-0.7099999785423279"
+               autoTempo="1" pitchChange="-0.01000010967254639" fadeIn="0.05"
+               fadeOut="0.05" fadeInType="2" autoCrossfade="1">
+      <LOOPINFO rootNote="-1" numBeats="305.8485" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <EFFECTS>
+        <EFFECT type="invert"/>
+      </EFFECTS>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="Track 2 Recording 1" start="150.9484166666666" length="0.1500000000000341"
+               offset="129.4987708333333" id="1109" source="48328f/17ef46c"
+               sync="0" elastiqueMode="0" pan="0.0" colour="ffffaa00" proxyAllowed="1"
+               resamplingQuality="lagrange" effectsVisible="1" gain="-0.7099999785423279"
+               autoTempo="1" pitchChange="-0.01000010967254639" fadeIn="0.05"
+               fadeOut="0.05" fadeInType="2" autoCrossfade="1">
+      <LOOPINFO rootNote="-1" numBeats="305.8485" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <EFFECTS>
+        <EFFECT type="invert"/>
+      </EFFECTS>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="Track 2 Recording 1" start="174.4144375" length="0.1500000000000341"
+               offset="152.9647916666667" id="1111" source="48328f/17ef46c"
+               sync="0" elastiqueMode="0" pan="0.0" colour="ffffaa00" proxyAllowed="1"
+               resamplingQuality="lagrange" effectsVisible="1" gain="-0.7099999785423279"
+               autoTempo="1" pitchChange="-0.01000010967254639" fadeIn="0.05"
+               fadeOut="0.05" fadeInType="2" autoCrossfade="1">
+      <LOOPINFO rootNote="-1" numBeats="305.8485" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <EFFECTS>
+        <EFFECT type="invert"/>
+      </EFFECTS>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="Track 2 Recording 1" start="176.0569791666667" length="0.1500000000000341"
+               offset="154.6073333333333" id="1113" source="48328f/17ef46c"
+               sync="0" elastiqueMode="0" pan="0.0" colour="ffffaa00" proxyAllowed="1"
+               resamplingQuality="lagrange" effectsVisible="1" gain="-0.7099999785423279"
+               autoTempo="1" pitchChange="-0.01000010967254639" fadeIn="0.05"
+               fadeOut="0.05" fadeInType="2" autoCrossfade="1">
+      <LOOPINFO rootNote="-1" numBeats="305.8485" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <EFFECTS>
+        <EFFECT type="invert"/>
+      </EFFECTS>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="Track 2 Recording 1" start="176.8718541666667" length="0.1500000000000341"
+               offset="155.4222083333333" id="1115" source="48328f/17ef46c"
+               sync="0" elastiqueMode="0" pan="0.0" colour="ffffaa00" proxyAllowed="1"
+               resamplingQuality="lagrange" effectsVisible="1" gain="-0.7099999785423279"
+               autoTempo="1" pitchChange="-0.01000010967254639" fadeIn="0.05"
+               fadeOut="0.05" fadeInType="2" autoCrossfade="1">
+      <LOOPINFO rootNote="-1" numBeats="305.8485" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <EFFECTS>
+        <EFFECT type="invert"/>
+      </EFFECTS>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="Track 2 Recording 1" start="177.7550833333333" length="0.1500000000000341"
+               offset="156.3054375" id="1117" source="48328f/17ef46c" sync="0"
+               elastiqueMode="0" pan="0.0" colour="ffffaa00" proxyAllowed="1"
+               resamplingQuality="lagrange" effectsVisible="1" gain="-0.7099999785423279"
+               autoTempo="1" pitchChange="-0.01000010967254639" fadeIn="0.05"
+               fadeOut="0.05" fadeInType="2" autoCrossfade="1">
+      <LOOPINFO rootNote="-1" numBeats="305.8485" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <EFFECTS>
+        <EFFECT type="invert"/>
+      </EFFECTS>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="Track 2 Recording 1" start="178.902" length="0.1500000000000341"
+               offset="157.4523541666667" id="1119" source="48328f/17ef46c"
+               sync="0" elastiqueMode="0" pan="0.0" colour="ffffaa00" proxyAllowed="1"
+               resamplingQuality="lagrange" effectsVisible="1" gain="-0.7099999785423279"
+               autoTempo="1" pitchChange="-0.01000010967254639" fadeIn="0.05"
+               fadeOut="0.05" fadeInType="2" autoCrossfade="1">
+      <LOOPINFO rootNote="-1" numBeats="305.8485" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <EFFECTS>
+        <EFFECT type="invert"/>
+      </EFFECTS>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="Track 2 Recording 1" start="179.4526458333333" length="0.5919166666666911"
+               offset="158.003" id="1121" source="48328f/17ef46c" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffffaa00" proxyAllowed="1" resamplingQuality="lagrange"
+               effectsVisible="1" gain="-0.7099999785423279" autoTempo="1" pitchChange="-0.01000010967254639"
+               fadeIn="0.05" fadeOut="0.05" fadeInType="2" autoCrossfade="1">
+      <LOOPINFO rootNote="-1" numBeats="305.8485" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <EFFECTS>
+        <EFFECT type="invert"/>
+      </EFFECTS>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="Track 2 Recording 1" start="180.0632708333333" length="48.08956250000003"
+               offset="158.613625" id="1123" source="48328f/17ef46c" sync="0"
+               elastiqueMode="0" pan="0.0" colour="ffffaa00" proxyAllowed="1"
+               resamplingQuality="lagrange" effectsVisible="1" gain="-0.7099999785423279"
+               autoTempo="1" pitchChange="-0.01000010967254639" fadeIn="0.05"
+               fadeOut="0.05" fadeInType="2" autoCrossfade="1">
+      <LOOPINFO rootNote="-1" numBeats="305.8485" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <EFFECTS>
+        <EFFECT type="invert"/>
+      </EFFECTS>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="Track 2 Recording 1" start="228.2536875" length="0.1500000000000341"
+               offset="206.8040416666666" id="1125" source="48328f/17ef46c"
+               sync="0" elastiqueMode="0" pan="0.0" colour="ffffaa00" proxyAllowed="1"
+               resamplingQuality="lagrange" effectsVisible="1" gain="-0.7099999785423279"
+               autoTempo="1" pitchChange="-0.01000010967254639" fadeIn="0.05"
+               fadeOut="0.05" fadeInType="2" autoCrossfade="1">
+      <LOOPINFO rootNote="-1" numBeats="305.8485" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <EFFECTS>
+        <EFFECT type="invert"/>
+      </EFFECTS>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="Track 2 Recording 1" start="228.73625" length="0.1500625000000184"
+               offset="207.2866041666666" id="1127" source="48328f/17ef46c"
+               sync="0" elastiqueMode="0" pan="0.0" colour="ffffaa00" proxyAllowed="1"
+               resamplingQuality="lagrange" effectsVisible="1" gain="-0.7099999785423279"
+               autoTempo="1" pitchChange="-0.01000010967254639" fadeIn="0.05"
+               fadeOut="0.05" fadeInType="2" autoCrossfade="1">
+      <LOOPINFO rootNote="-1" numBeats="305.8485" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <EFFECTS>
+        <EFFECT type="invert"/>
+      </EFFECTS>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="Track 2 Recording 1" start="229.0406041666667" length="0.1500208333333433"
+               offset="207.5909583333333" id="1129" source="48328f/17ef46c"
+               sync="0" elastiqueMode="0" pan="0.0" colour="ffffaa00" proxyAllowed="1"
+               resamplingQuality="lagrange" effectsVisible="1" gain="-0.7099999785423279"
+               autoTempo="1" pitchChange="-0.01000010967254639" fadeIn="0.05"
+               fadeOut="0.05" fadeInType="2" autoCrossfade="1">
+      <LOOPINFO rootNote="-1" numBeats="305.8485" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <EFFECTS>
+        <EFFECT type="invert"/>
+      </EFFECTS>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="Track 2 Recording 1" start="229.5783333333333" length="0.1500000000000341"
+               offset="208.1286875" id="1131" source="48328f/17ef46c" sync="0"
+               elastiqueMode="0" pan="0.0" colour="ffffaa00" proxyAllowed="1"
+               resamplingQuality="lagrange" effectsVisible="1" gain="-0.7099999785423279"
+               autoTempo="1" pitchChange="-0.01000010967254639" fadeIn="0.05"
+               fadeOut="0.05" fadeInType="2" autoCrossfade="1">
+      <LOOPINFO rootNote="-1" numBeats="305.8485" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <EFFECTS>
+        <EFFECT type="invert"/>
+      </EFFECTS>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="Track 2 Recording 1" start="229.8170208333333" length="0.1500000000000341"
+               offset="208.367375" id="1133" source="48328f/17ef46c" sync="0"
+               elastiqueMode="0" pan="0.0" colour="ffffaa00" proxyAllowed="1"
+               resamplingQuality="lagrange" effectsVisible="1" gain="-0.7099999785423279"
+               autoTempo="1" pitchChange="-0.01000010967254639" fadeIn="0.05"
+               fadeOut="0.05" fadeInType="2" autoCrossfade="1">
+      <LOOPINFO rootNote="-1" numBeats="305.8485" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <EFFECTS>
+        <EFFECT type="invert"/>
+      </EFFECTS>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="Track 2 Recording 1" start="231.8996458333333" length="0.1500000000000341"
+               offset="210.45" id="1135" source="48328f/17ef46c" sync="0" elastiqueMode="0"
+               pan="0.0" colour="ffffaa00" proxyAllowed="1" resamplingQuality="lagrange"
+               effectsVisible="1" gain="-0.7099999785423279" autoTempo="1" pitchChange="-0.01000010967254639"
+               fadeIn="0.05" fadeOut="0.05" fadeInType="2" autoCrossfade="1">
+      <LOOPINFO rootNote="-1" numBeats="305.8485" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <EFFECTS>
+        <EFFECT type="invert"/>
+      </EFFECTS>
+    </AUDIOCLIP>
+    <AUDIOCLIP name="Track 2 Recording 1" start="232.2049583333333" length="0.1500208333333433"
+               offset="210.7553125" id="1137" source="48328f/17ef46c" sync="0"
+               elastiqueMode="0" pan="0.0" colour="ffffaa00" proxyAllowed="1"
+               resamplingQuality="lagrange" effectsVisible="1" gain="-0.7099999785423279"
+               autoTempo="1" pitchChange="-0.01000010967254639" fadeIn="0.05"
+               fadeOut="0.05" fadeInType="2" autoCrossfade="1">
+      <LOOPINFO rootNote="-1" numBeats="305.8485" oneShot="0" denominator="4"
+                numerator="4" bpm="0.0" inMarker="0" outMarker="-1"/>
+      <EFFECTS>
+        <EFFECT type="invert"/>
+      </EFFECTS>
+    </AUDIOCLIP>
+    <PLUGIN type="nonLinearReverb" windowLocked="1" id="1141" enabled="1"
+            presetDirty="0" preDelay="0.0" decay="0.239999994635582" presetName="Non-linear Reverb: Anti-reverb"
+            presetPath="C:\Users\coine1000\AppData\Roaming\Tracktion\Waveform\Factory Presets\Non-linear Reverb\Non-linear Reverb Anti-reverb.trkpreset"
+            size="0.7960000038146973" mix="0.3799999952316284" lowDamp="0.0"
+            highDamp="1.0" definition="0.7779999971389771" diffusion="0.843999981880188"
+            windowX="80" windowY="103">
+      <MACROPARAMETERS id="1142"/>
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="volume" id="1014" enabled="1" volume="0.8701285719871521"
+            windowX="80" windowY="103" windowLocked="0">
+      <MACROPARAMETERS id="1015"/>
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="level" id="1016" enabled="1">
+      <MACROPARAMETERS id="1017"/>
+    </PLUGIN>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK id="1018" midiVProp="0.28125" midiVOffset="0.359375" colour="ffaaff00">
+    <MACROPARAMETERS id="1019"/>
+    <MODIFIERS/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+    <PLUGIN type="volume" id="1020" enabled="1">
+      <MACROPARAMETERS id="1021"/>
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="level" id="1022" enabled="1">
+      <MACROPARAMETERS id="1023"/>
+    </PLUGIN>
+  </TRACK>
+  <TRACK id="1024" midiVProp="0.28125" midiVOffset="0.359375" colour="ff00ff00">
+    <MACROPARAMETERS id="1025"/>
+    <MODIFIERS/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+    <PLUGIN type="volume" id="1026" enabled="1">
+      <MACROPARAMETERS id="1027"/>
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="level" id="1028" enabled="1">
+      <MACROPARAMETERS id="1029"/>
+    </PLUGIN>
+  </TRACK>
+  <TRACK id="1030" midiVProp="0.28125" midiVOffset="0.359375" colour="ff00ffaa">
+    <MACROPARAMETERS id="1031"/>
+    <MODIFIERS/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+    <PLUGIN type="volume" id="1032" enabled="1">
+      <MACROPARAMETERS id="1033"/>
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="level" id="1034" enabled="1">
+      <MACROPARAMETERS id="1035"/>
+    </PLUGIN>
+  </TRACK>
+  <TRACK id="1036" midiVProp="0.28125" midiVOffset="0.359375" colour="ff00aaff">
+    <MACROPARAMETERS id="1037"/>
+    <MODIFIERS/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+    <PLUGIN type="volume" id="1038" enabled="1">
+      <MACROPARAMETERS id="1039"/>
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="level" id="1040" enabled="1">
+      <MACROPARAMETERS id="1041"/>
+    </PLUGIN>
+  </TRACK>
+  <TRACK id="1042" midiVProp="0.28125" midiVOffset="0.359375" colour="ff0000ff">
+    <MACROPARAMETERS id="1043"/>
+    <MODIFIERS/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+    <PLUGIN type="volume" id="1044" enabled="1">
+      <MACROPARAMETERS id="1045"/>
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="level" id="1046" enabled="1">
+      <MACROPARAMETERS id="1047"/>
+    </PLUGIN>
+  </TRACK>
+  <TRACK id="1048" midiVProp="0.28125" midiVOffset="0.359375" colour="ffaa00ff">
+    <MACROPARAMETERS id="1049"/>
+    <MODIFIERS/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+    <PLUGIN type="volume" id="1050" enabled="1">
+      <MACROPARAMETERS id="1051"/>
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="level" id="1052" enabled="1">
+      <MACROPARAMETERS id="1053"/>
+    </PLUGIN>
+  </TRACK>
+  <ARADOCUMENT/>
+  <CONTROLLERMAPPINGS/>
+  <VIEWSTATE minimalTransportBar="1" hiddenClips="" lockedClips="" chordTrackVisible="0"
+             arrangerTrackVisible="0" enabledTrackTags="" currentSidePanel="Actions"
+             viewleft="134.2213541666666" viewright="171.2213541666665"/>
+  <EDITMIXGROUPS/>
+  <AUDIOEDITING/>
+</EDIT>
